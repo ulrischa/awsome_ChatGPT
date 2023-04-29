@@ -6,6 +6,9 @@ It's time for a free list of awsome ChatGPT prompts
 {Html}
 
 ## Emojis
+- What is the suitable emoji for the following text: {text}
+- What is the sentiment of the following emiji: {emoji}
+- 
 
 ## General
 
